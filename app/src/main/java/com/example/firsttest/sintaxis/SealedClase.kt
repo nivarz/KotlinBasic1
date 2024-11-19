@@ -1,5 +1,7 @@
 package com.example.firsttest.sintaxis
 
+import kotlin.math.E
+
 fun main(){
 
     val erik = Person("Erik","Nivar", EstadoCivil.Soltero)
