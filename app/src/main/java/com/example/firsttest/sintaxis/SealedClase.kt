@@ -8,7 +8,7 @@ fun main(){
     val kevin = Person("Kevin","Vladimir", EstadoCivil.Comprometido)
     val elian = Person("Elian","Martinez", EstadoCivil.Soltero)
 
-    if (erik.estadoCivil == elian.estadoCivil){
+    if (erik.estadoCivil == kevin.estadoCivil){
         println("Tienen el mismo estado civil.")
     }else{
         println("No tienen el mismo estado civil")
