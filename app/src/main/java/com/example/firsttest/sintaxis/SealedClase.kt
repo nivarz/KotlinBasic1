@@ -9,7 +9,7 @@ fun main(){
     val elian = Person("Elian","Martinez", EstadoCivil.Soltero)
 
     if (erik.estadoCivil == elian.estadoCivil){
-        println("Tienen el mismo estado civil")
+        println("Tienen el mismo estado civil.")
     }else{
         println("No tienen el mismo estado civil")
     }
